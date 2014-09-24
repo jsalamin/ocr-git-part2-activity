@@ -7,3 +7,5 @@ Small demo project required to complete part 2 of the tutoral "Gérer son code a
 
 # Hello Bootstrap
 Single-page website that shows a basic "Hello World". The bootstrap framework is used to make the content a bit more styled ;-)
+
+*More info on [OpenClassRooms](http://fr.openclassrooms.com/)*
